@@ -8,7 +8,7 @@ class Profile_Description extends Component {
   render() {
     return (
       <div>
-        <h2 className="text-center pt-2 pt-lg-1">Some info about this site:</h2>
+        <h2 className="text-center pt-2">Some info about this site:</h2>
         <p className="text-justify">
           You are currently viewing Version 2 of my website, which I developed using React -- a JavaScript library utilized
           by HTML to modularize user interface compositions. I used Bootstrap and custom CSS for styling.

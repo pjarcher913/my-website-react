@@ -10,6 +10,14 @@
     color: #1aa3ff;
 }
 
-#email-link:visited {
+#linkedin-link {
+    text-decoration: none;
     color: #000000;
+    line-height: 1.4em;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+#linkedin-link:hover {
+    color: #1aa3ff;
 }

@@ -14,7 +14,7 @@ class Profile extends Component {
       <div className="row">
         <div className="px-3">
           <img id="profile-pic" className="pl-0 float-left col-xs-3 col-sm-3 col-md-3 col-lg-3"
-               src={ProfilePic} alt="Profile Picture"/>
+               src={ProfilePic} alt="ProfilePic"/>
           <div className="profile-text float-none">
             <span>
               My name is Patrick Archer. In May 2019, I earned my Bachelor of Science in Engineering
@@ -24,10 +24,12 @@ class Profile extends Component {
               <br/><br/>
               For my final 3 years as an undergraduate, I worked as an IT Systems Support student worker for ASU’s
               Engineering Dean’s Office. I directly supported technology utilized daily by the Dean of Engineering and his
-              close staff. I gained experience in supporting users and utilizing task-management systems.
+              close staff.
               <br/><br/>
               I am an Eagle Scout and I exhibit all qualities as expected from one. I am organized and work efficiently.
               I work well in teams.
+              <br/><br/>
+              This website serves those who wish to learn more about me and my technical work.
             </span>
           </div>
         </div>

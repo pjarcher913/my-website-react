@@ -1,0 +1,13 @@
+.home-root {
+    padding-top: 15px;
+}
+
+.home-header {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.home-content {
+    /*text-align: center;*/
+    line-height: 1.4em;
+}

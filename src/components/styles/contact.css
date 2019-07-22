@@ -1,0 +1,15 @@
+#email-link {
+    text-decoration: none;
+    color: #000000;
+    line-height: 1.4em;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+#email-link:hover {
+    color: #1aa3ff;
+}
+
+#email-link:visited {
+    color: #000000;
+}

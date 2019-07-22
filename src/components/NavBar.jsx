@@ -15,22 +15,22 @@ export const NavigationBar = (props) => (
         {/* === Page links === */}
         <Nav.Item>
           <Nav.Link>
-            <Link className="nav-link" to="/">HOME</Link>
+            <Link className="nav-link pl-3" to="/">HOME</Link>
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
           <Nav.Link>
-            <Link className="nav-link" to="/resume">RESUME</Link>
+            <Link className="nav-link pl-3" to="/resume">RESUME</Link>
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
           <Nav.Link>
-            <Link className="nav-link" to="/projects">PROJECTS</Link>
+            <Link className="nav-link pl-3" to="/projects">PROJECTS</Link>
           </Nav.Link>
         </Nav.Item>
         <Nav.Item>
           <Nav.Link>
-            <Link className="nav-link" to="/contact">CONTACT</Link>
+            <Link className="nav-link pl-3" to="/contact">CONTACT</Link>
           </Nav.Link>
         </Nav.Item>
         {/* === Dropdown menu === */}

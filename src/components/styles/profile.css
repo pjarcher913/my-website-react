@@ -1,12 +1,4 @@
-.content-root {
-
-}
-
 .profile-text {
-    padding-top: auto;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-bottom: auto;
     text-align: justify;
     /*line-height: 1.35em;*/
 }
@@ -14,7 +6,6 @@
 #profile-pic {
     max-width: 230px;
     /*height: auto;*/
-    margin-right: 10px;
 }
 
 #profile-desc {

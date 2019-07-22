@@ -5,8 +5,8 @@ import Profile from "./Profile.jsx";
 import Profile_Description from "./Profile_Description";
 
 export const Home = () => (
-  <div className="home-root">
-    <h2 className="home-header">Hello! I'm Patrick.</h2>
+  <div className="pt-3">
+    <h2 className="home-header">"Who is this guy and why do I care?"</h2>
     <div className="home-content">
       <Profile/>
       {/* eslint-disable-next-line */}

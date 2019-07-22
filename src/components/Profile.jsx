@@ -13,6 +13,9 @@ class Profile extends Component {
     return (
       <div className="row">
         <div className="px-3">
+          <p className="text-center font-weight-bold">
+            This website serves those who wish to learn more about me and my technical work.
+          </p>
           <img id="profile-pic" className="pl-0 float-left col-xs-3 col-sm-3 col-md-3 col-lg-3"
                src={ProfilePic} alt="ProfilePic"/>
           <div className="profile-text float-none">
@@ -28,8 +31,6 @@ class Profile extends Component {
               <br/><br/>
               I am an Eagle Scout and I exhibit all qualities as expected from one. I am organized and work efficiently.
               I work well in teams.
-              <br/><br/>
-              This website serves those who wish to learn more about me and my technical work.
             </span>
           </div>
         </div>

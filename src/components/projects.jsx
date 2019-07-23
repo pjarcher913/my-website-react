@@ -24,7 +24,7 @@ const p1_description =
   `I designed and developed the website you are currently viewing using ReactJS, HTML, CSS, and Bootstrap.`;
 const p2_description =
   `My Arizona State University Computer Systems Engineering Capstone Project was sponsored by Benchmark Electronics.
-  Myself and 3 other students were tasked with developing a system with the ability to provide real-time 3-dimensional
+  3 other students and I were tasked with developing a system with the ability to provide real-time 3-dimensional
   locations of individual on-scene first responders without the use of GPS or an internet connection. All code was written in
   embedded C/C++, Python, SQLite, and Linux shell.`;
 const p3_description =

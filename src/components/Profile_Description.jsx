@@ -16,7 +16,7 @@ class Profile_Description extends Component {
           following <a href="https://github.com/pjarcher913/my-website-react" target="_blank" rel="noreferrer noopener">this link</a>.
           <br/><br/>
           I developed Version 1 using standard ("vanilla") HTML, CSS, and JavaScript.
-          I did not utilize neither React nor Bootstrap. You can view the code for Version 1 on GitHub by
+          I did not utilize React or Bootstrap. You can view the code for Version 1 on GitHub by
           following <a href="https://github.com/pjarcher913/my-website-portfolio" target="_blank" rel="noreferrer noopener">this link</a>.
           <br/><br/>
           Since I am trying to focus on progressing my skill with React, I will be solely working on updating Version 2

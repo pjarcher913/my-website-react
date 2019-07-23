@@ -1,0 +1,14 @@
+#projCard {
+    border: 1px #000000 solid;
+}
+
+#projImg {
+    /*width: 50%;*/
+    /*height: auto;*/
+    align-self: center;
+    /*object-fit: contain;*/
+    padding-top: 10px;
+    width: 50%;
+    height: 10vw;
+    object-fit: contain;
+}

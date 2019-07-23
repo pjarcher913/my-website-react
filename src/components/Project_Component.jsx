@@ -27,13 +27,6 @@ class Project_Component extends Component {
           <a className="btn btn-primary" href={this.state.projLink} target="_blank" rel="noreferrer noopener">View on GitHub</a>
           <p className="card-text text-justify pt-2">{this.state.projDescription}</p>
         </div>
-        
-        
-        
-        {/*<img src={this.state.projImage} alt="Project"/>*/}
-        {/*<p>*/}
-        {/*  {this.state.projDescription}*/}
-        {/*</p>*/}
       </div>
     );
   }

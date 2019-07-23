@@ -24,7 +24,7 @@ const p1_description =
   `I designed and developed the website you are currently viewing using ReactJS, HTML, CSS, and Bootstrap.`;
 const p2_description =
   `My Arizona State University Computer Systems Engineering Capstone Project was sponsored by Benchmark Electronics.
-  3 other students and I were tasked with developing a system with the ability to provide real-time 3-dimensional
+  Three other students and I were tasked with developing a system with the ability to provide real-time 3-dimensional
   locations of individual on-scene first responders without the use of GPS or an internet connection. All code was written in
   embedded C/C++, Python, SQLite, and Linux shell.`;
 const p3_description =
@@ -33,7 +33,7 @@ const p3_description =
   map. The app utilized GoogleMaps APIs and CoreLocation to determine the locations of the user and nearby bathrooms.`;
 const p4_description =
   `Since graduation, I have been completing miscellaneous Python code exercises to keep refreshing my knowledge of the
-  language. The exercises I work through come from this website.`;
+  language. The provided GitHub link will take you to one of the exercises I completed.`;
 
 /*
 Links to GitHub repos for each card

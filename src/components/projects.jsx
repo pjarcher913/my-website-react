@@ -41,7 +41,7 @@ Links to GitHub repos for each card
 const p1_link = "https://github.com/pjarcher913/my-website-react";
 const p2_link = "https://github.com/jas2070789/cse423firstresponders";
 const p3_link = "https://github.com/pjarcher913/cse335-ClassProject_FinalVersion";
-const p4_link = "https://github.com/pjarcher913/pythonExercises-10_ListOverlapComprehensions/blob/master/main.py";
+const p4_link = "https://github.com/pjarcher913/python-challenges";
 
 export const Projects = () => (
   <div>

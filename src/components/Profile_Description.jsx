@@ -10,8 +10,8 @@ class Profile_Description extends Component {
       <div>
         <h2 className="text-center pt-2">Some info about this site:</h2>
         <p className="text-justify">
-          You are currently viewing Version 2 of my website, which I developed using React -- a JavaScript library utilized
-          by HTML to modularize user interface compositions. I used Bootstrap and custom CSS for styling.
+          You are currently viewing Version 2 of my website, which I developed using React -- a JavaScript library utilized to 
+          modularize user interface compositions. I used Bootstrap and custom CSS for styling.
           You can view the code for Version 2 on GitHub by
           following <a href="https://github.com/pjarcher913/my-website-react" target="_blank" rel="noreferrer noopener">this link</a>.
           <br/><br/>

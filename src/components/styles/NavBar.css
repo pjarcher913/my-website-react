@@ -24,14 +24,23 @@ Page Links
 .navbar-root .navbar .nav-link {
     color: #000000;
     text-outline: #000000 30px;
+    font-family: "Segoe UI", "Roboto", "Oxygen", -apple-system, BlinkMacSystemFont, "Ubuntu", "Cantarell", "Fira Sans",
+    "Droid Sans", "Helvetica Neue", sans-serif;
 }
 
 .navbar-root .navbar .nav-link:hover {
-    /*color: #ffffff;*/
-    opacity: 65%;
+    color: #ffffff;
+    /*opacity: 65%;*/
 }
 
 .navbar-root .navbar .nav-link:focus {
     /*color: #f2f2f2;*/
-    color: #000000;
+    /*color: #000000;*/
+    color: #ffffff;
+}
+
+.navbar-root .navbar .nav-link:active {
+    /*color: #f2f2f2;*/
+    /*color: #000000;*/
+    color: #ffffff;
 }

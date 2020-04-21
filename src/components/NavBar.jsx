@@ -14,7 +14,7 @@ export const NavigationBar = (props) => (
       <Nav className="navbar ml-auto">
         {/* === Page links === */}
         <Nav.Item>
-          <Nav.Link>
+          <Nav.Link active="1">
             <Link className="nav-link pl-3" to="/">HOME</Link>
           </Nav.Link>
         </Nav.Item>
